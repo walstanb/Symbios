@@ -5,6 +5,7 @@
 
 @font-face {
   font-family: "Flaticon";
+    font-display: auto;
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
        url("./Flaticon.woff") format("woff"),
@@ -24,6 +25,7 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
+    font-display: auto;
   speak: none;
   font-style: normal;
   font-weight: normal;
