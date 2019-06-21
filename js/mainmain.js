@@ -2351,9 +2351,10 @@ jQuery(document).ready(function($) {
 
 
 });
-
+/*
     function loadDeferredIframe() {
         var iframe = document.getElementById("mapsiframe");
-        iframe.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.3014356253675!2d73.19850731485924!3d22.26656854974554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc5c60473529d%3A0x2c0dc0b7739e5a1e!2sDon+Bosco+Church!5e0!3m2!1sen!2sin!4v1560527422775!5m2!1sen!2sin" // here goes your url
+        iframe.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.3014356253675!2d73.19850731485924!3d22.26656854974554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc5c60473529d%3A0x2c0dc0b7739e5a1e!2sDon+Bosco+Church!5e0!3m2!1sen!2sin!4v1560527422775!5m2!1sen!2sin"; // here goes your url
     };
     window.onload = loadDeferredIframe;
+    */
