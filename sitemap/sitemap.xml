@@ -1,33 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/events</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/macson</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/contact</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/venue</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/about</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/shinu</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/frisaac</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/speaker-single</loc>
-  </url>
-  <url>
-    <loc>http://symbiosvadodara.netlify.com/pdmatt</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://symbiosvadodara.netlify.com/</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/venue</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/about</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/events</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/contact</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/speaker-single</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/shinu</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/pdmatt</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/macson</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://symbiosvadodara.netlify.com/frisaac</loc>
+  <lastmod>2019-06-21T11:13:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
