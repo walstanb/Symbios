@@ -1,3 +1,3 @@
-# Symbios
+# SYMBIOS
 Symbios Vadodara
-www.symbiosvadodara.netlify.com
+www.symbiosvadodara.netlify.app
