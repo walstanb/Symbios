@@ -1,3 +1,3 @@
 # SYMBIOS
 Symbios Vadodara
-www.symbiosvadodara.netlify.app
+https://symbiosvadodara.netlify.app/
